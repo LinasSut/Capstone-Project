@@ -27,14 +27,14 @@ Ultimately, the goal is to provide actionable insights to the management team, f
 
 ## Results 
 
-- [Main Report](https://github.com/TuringCollegeSubmissions/lsutka-DACP.1.1/blob/main/REPORT%20-%20Market%20Insights%20for%20E-commerce%20Company.pdf)
+- [Main Report](https://github.com/LinasSut/Capstone-Project/blob/main/REPORT%20-%20Market%20Insights%20for%20E-commerce%20Company.pdf)
 - [Presentation](https://docs.google.com/presentation/d/1KpmfOAPBhM93Qc5lT2YpAiUmMwKQlb_RPkv_B-xulYk/edit?usp=sharing)
 - [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/linas.sutkaitis/viz/TC-Capstone-MainDashboard/EcommerseOverview)
   
 
 ### Queries 
 
-- [Main Data & customers Segmentation](https://github.com/TuringCollegeSubmissions/lsutka-DACP.1.1/blob/main/QUERY%20-%20Capstone%20-%20Main%20Data%20%26%20Customer%20Segmentation.sql)
-- [Customers Retention](https://github.com/TuringCollegeSubmissions/lsutka-DACP.1.1/blob/main/QUERY%20-%20Capstone%20-%20Customers%20Retention.sql)
-- [Customers Lifetime Value (CLV)](https://github.com/TuringCollegeSubmissions/lsutka-DACP.1.1/blob/main/QUERY%20-%20Capstone%20-%20Customer%20Lifetime%20Value%20(CLV).sql)
-- [Market Basket Analysis](https://github.com/TuringCollegeSubmissions/lsutka-DACP.1.1/blob/main/QUERY%20-%20Capstone%20-%20Market%20Bastek%20Analysis.sql)
+- [Main Data & customers Segmentation](https://github.com/LinasSut/Capstone-Project/blob/main/QUERY%20-%20Capstone%20-%20Main%20Data%20%26%20Customer%20Segmentation.sql)
+- [Customers Retention](https://github.com/LinasSut/Capstone-Project/blob/main/QUERY%20-%20Capstone%20-%20Customers%20Retention.sql)
+- [Customers Lifetime Value (CLV)](https://github.com/LinasSut/Capstone-Project/blob/main/QUERY%20-%20Capstone%20-%20Customer%20Lifetime%20Value%20(CLV).sql)
+- [Market Basket Analysis](https://github.com/LinasSut/Capstone-Project/blob/main/QUERY%20-%20Capstone%20-%20Market%20Bastek%20Analysis.sql)
