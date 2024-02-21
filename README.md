@@ -3,7 +3,7 @@
 
 ## Market Insights for E-commerce Company in 2019
 
-The e-commerce data provided relates to a fictional company based in the USA, specializing in the online retail of home and office appliances catering to both men and women. The data source for this project is a publicly available dataset obtained from Kaggle.com, which can be accessed [here](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company/data) .
+The e-commerce data provided relates to a fictional company based in the USA, specializing in the online retail of home and office appliances catering to both men and women. The data source for this project is a publicly available dataset obtained from Kaggle.com, which can be accessed [here](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company/data)
 
 The primary objective of the company is to enhance customer experience, elevate satisfaction levels, and ultimately boost revenue. To achieve these goals, the project employed various data analysis techniques, including RFM segmentation, retention analysis using cohorts, assessment of customer lifetime value (CLV), and product analysis.
 
