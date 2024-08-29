@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Personal GCP" uuid="51cb512a-15f6-4810-962d-06f1b6d4557e">
+      <driver-ref>bigquery</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.simba.googlebigquery.jdbc42.Driver</jdbc-driver>
+      <jdbc-url>jdbc:bigquery://https://www.googleapis.com/bigquery/v2:443</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="ProjectId" value="personal-project-230317" />
+        <property name="OAuthServiceAcctEmail" value="personal-projects@personal-project-230317.iam.gserviceaccount.com" />
+        <property name="OAuthPvtKeyPath" value="$PROJECT_DIR$/../Personal Keys/personal-project-230317-fbad2cdbcdcb.json" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
