@@ -52,7 +52,7 @@ products AS (
 
 Market_basket as (
   SELECT
-  CONCAT( IFNULL(Product1, ''), IFNULL(CONCAT(' -> ', Product2), ''), IFNULL(CONCAT(' -> ', Product3), '')) AS Basket,
+  CONCAT( IFNULL(Product1, ''), IFNULL(CONCAT(' -> ', Product2), ''), IFNULL(CONCAT(' -> ', Product3), '')) AS Market_basket_name,
   CASE
     WHEN Product3 IS NOT NULL THEN '3 Product Combination'
     WHEN Product2 IS NOT NULL THEN '2 Product Combination'
