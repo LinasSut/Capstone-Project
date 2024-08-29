@@ -57,15 +57,15 @@ Market_basket as (
     WHEN Product3 IS NOT NULL THEN '3 Product Combination'
     WHEN Product2 IS NOT NULL THEN '2 Product Combination'
     ELSE '1 Product'
-  END AS product_combinations,
-  COUNT(*) AS Occurrence
+  END AS product_combination,
+  COUNT(*) AS number_of_occurence
 FROM products
 GROUP BY 1,2
-ORDER BY Occurrence DESC
+ORDER BY number_of_occurence DESC
 )
 
 -- Filtering only Layer 2 and Layer 3 for the market basket analysis 
 
 SELECT * 
 FROM Market_basket
-WHERE product_combinations IN( '3 Product Combination', '2 Product Combination') 
+WHERE product_combination IN( '3 Product Combination', '2 Product Combination')
